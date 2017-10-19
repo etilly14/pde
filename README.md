@@ -1,2 +1,2 @@
 # pde
-A repo for Math 334
+An exciting repo for Math 334
